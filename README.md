@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=404Rohan" alt="404Rohan" /></a> </p>
 
-[![Giphy GIF](https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif)]()
+![Giphy GIF](https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif)
 
 
 
